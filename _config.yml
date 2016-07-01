@@ -1,14 +1,14 @@
-layout_spectrum: 0.1270167320035398
-typography_spectrum: 0.18691182183101773
+layout_spectrum: 0.3830174086615443
+typography_spectrum: 0.8755325579550117
 color:
-  brandStrength: 0.9304321503732353
-  lightness: 0.5226053746882826
-  saturation: 0.7027271622791886
-  rhythmicContrast: 0.05940063507296145
+  brandStrength: 0.7093179295770824
+  lightness: 0.006586701842024922
+  saturation: 0.7701299618929625
+  rhythmicContrast: 0.3797726428601891
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: cool designs
