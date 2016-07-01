@@ -66,8 +66,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=8xAhTojgNmE'
 title: The best places in the world to travel in 2016 | Lonely Planet
-datePublished: '2016-07-01T18:06:45.103Z'
-dateModified: '2016-07-01T18:06:02.053Z'
+datePublished: '2016-07-01T18:10:29.322Z'
+dateModified: '2016-07-01T18:06:28.944Z'
 starred: false
 sourcePath: >-
   _posts/2016-07-01-the-best-places-in-the-world-to-travel-in-2016-or-lonely-plan.md
