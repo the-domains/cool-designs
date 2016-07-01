@@ -30,11 +30,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.worldofwanderlust.com/the-top-25-best-destinations-in-the-world/'
 title: The "Top 25" Best Destinations in the World | WORLD OF WANDERLUST
-datePublished: '2016-07-01T18:06:45.101Z'
-dateModified: '2016-07-01T18:04:34.329Z'
-starred: false
+datePublished: '2016-07-01T18:08:59.769Z'
+dateModified: '2016-07-01T18:08:59.160Z'
 sourcePath: >-
   _posts/2016-07-01-the-top-25-best-destinations-in-the-world-or-world-of-wande.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
