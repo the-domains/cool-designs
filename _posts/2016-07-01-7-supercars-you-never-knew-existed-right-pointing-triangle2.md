@@ -61,11 +61,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=-nbRQksE5yk'
 title: 7 SUPERCARS YOU NEVER KNEW EXISTED ▶2
-datePublished: '2016-07-02T01:53:07.829Z'
-dateModified: '2016-07-02T01:53:07.301Z'
+datePublished: '2016-07-02T01:53:29.707Z'
+dateModified: '2016-07-02T01:53:29.455Z'
 sourcePath: >-
   _posts/2016-07-01-7-supercars-you-never-knew-existed-right-pointing-triangle2.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
