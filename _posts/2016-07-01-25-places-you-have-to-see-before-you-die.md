@@ -18,10 +18,10 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=k4tkrJ563b0'
 title: 25 Places You Have To See Before You Die
-datePublished: '2016-07-01T18:14:06.388Z'
-dateModified: '2016-07-01T18:14:05.940Z'
+datePublished: '2016-07-02T01:53:35.653Z'
+dateModified: '2016-07-02T01:53:35.168Z'
 sourcePath: _posts/2016-07-01-25-places-you-have-to-see-before-you-die.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
