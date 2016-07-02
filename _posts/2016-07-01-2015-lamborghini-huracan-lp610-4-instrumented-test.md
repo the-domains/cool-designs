@@ -27,10 +27,10 @@ app_links: []
 isBasedOnUrl: >-
   http://www.caranddriver.com/reviews/2015-lamborghini-huracan-lp610-4-tested-review
 title: 2015 Lamborghini Huracán LP610-4 - Instrumented Test
-datePublished: '2016-07-01T17:59:59.396Z'
-dateModified: '2016-07-01T17:59:58.836Z'
+datePublished: '2016-07-02T01:52:56.799Z'
+dateModified: '2016-07-02T01:52:56.416Z'
 sourcePath: _posts/2016-07-01-2015-lamborghini-huracan-lp610-4-instrumented-test.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
