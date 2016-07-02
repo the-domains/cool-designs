@@ -40,10 +40,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.goldmoney.com/research/market-updates/silver-as-money'
 title: Silver as money
-datePublished: '2016-07-02T01:28:04.758Z'
-dateModified: '2016-07-02T01:26:54.821Z'
-starred: false
+datePublished: '2016-07-02T01:28:36.480Z'
+dateModified: '2016-07-02T01:28:36.019Z'
 sourcePath: _posts/2016-07-02-silver-as-money.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
