@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-01T18:10:31.243Z'
+datePublished: '2016-07-02T01:53:14.478Z'
 sourcePath: _posts/2016-07-01-the-most-luxurious-wedding-venues-in-the-world.md
 isBasedOnUrl: >-
   http://www.townandcountrymag.com/the-scene/weddings/news/a3302/the-most-luxurious-wedding-venues-in-the-world/
@@ -19,7 +19,7 @@ author:
   - name: Emma Stoneham
     url: null
     avatar: {}
-dateModified: '2016-07-01T18:09:52.712Z'
+dateModified: '2016-07-02T01:53:13.999Z'
 title: The Most Luxurious Wedding Venues in the World
 app_links: []
 publisher:
@@ -33,7 +33,7 @@ description: >-
   according to Lynn Easton of Easton Events. This resort is ranked as the top
   hotel in India and Asia with its amazing service, food, spa, and suites.
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
