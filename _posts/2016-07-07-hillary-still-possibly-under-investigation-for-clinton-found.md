@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.breitbart.com/big-government/2016/07/07/hillary-clinton-fbi-investigation-clinton-foundation-still-ongoing/
 title: Hillary Still Possibly Under Investigation for Clinton Foundation
-datePublished: '2016-07-07T21:33:43.570Z'
-dateModified: '2016-07-07T21:33:22.667Z'
+datePublished: '2016-07-07T21:36:54.984Z'
+dateModified: '2016-07-07T21:36:38.225Z'
 starred: false
 sourcePath: >-
   _posts/2016-07-07-hillary-still-possibly-under-investigation-for-clinton-found.md
