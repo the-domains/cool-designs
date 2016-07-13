@@ -48,10 +48,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/67739294'
 title: The War You Don't See
-datePublished: '2016-07-07T21:11:27.305Z'
-dateModified: '2016-07-07T21:10:29.864Z'
-starred: false
+datePublished: '2016-07-13T08:28:13.405Z'
+dateModified: '2016-07-13T08:28:12.678Z'
 sourcePath: _posts/2016-07-07-the-war-you-dont-see.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
