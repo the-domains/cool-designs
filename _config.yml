@@ -1,16 +1,16 @@
-typography_spectrum: 0.500821694964543
+layout_spectrum: 0.5391798208002001
+typography_spectrum: 0.23379414388909936
 color:
-  brandStrength: 0.7637647159863263
-  lightness: 0.7923836845438927
-  saturation: 0.7071569198742509
-  rhythmicContrast: 0.19235825026407838
+  brandStrength: 0.20007293648086488
+  lightness: 0.10976959462277591
+  saturation: 0.964196111774072
+  rhythmicContrast: 0.33301304234191775
   brandColors:
     - '#E1E6FA'
     - '#C4D7ED'
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
-layout_spectrum: 0.6638087488245219
 name: awakening
 title: think for yourself
 description: always ask questions
